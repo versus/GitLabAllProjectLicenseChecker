@@ -1,0 +1,17 @@
+[server]
+gitlabURL = "https://gitlab.com"
+tocken = "CHANGEME"
+
+licenseFiles = [
+    "LICENSE",
+    "LICENSE.txt",
+    "license",
+    "license.txt"
+]
+
+licenseTypes = [
+    "Apache",
+    "MIT",
+    "GNU",
+    "FIGLEAF"
+]

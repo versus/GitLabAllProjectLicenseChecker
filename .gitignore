@@ -1,0 +1,11 @@
+*.pem
+.*
+!.terraform-version
+!.gitignore
+!.ENV
+*.iml
+Makefile
+env/stage/errored.tfstate
+env/test/errored.tfstate
+env/prod/errored.tfstate
+env/performance/errored.tfstate
